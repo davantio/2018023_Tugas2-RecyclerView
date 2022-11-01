@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tugas2_RecyclerView</string>
+    <string-array name="kuliner">
+        <item>Pecel</item>
+        <item>Rawon</item>
+        <item>Rujak</item>
+        <item>Tahu Tek</item>
+        <item>Lontong Balap</item>
+        <item>Lontong Kupang</item>
+    </string-array>
+    <string-array name="rating">
+        <item>4.9</item>
+        <item>4.7</item>
+        <item>4.5</item>
+        <item>4.6</item>
+        <item>4.8</item>
+        <item>4.4</item>
+    </string-array>
+    <string-array name="harga">
+        <item>Rp. 11.000</item>
+        <item>Rp. 15.000</item>
+        <item>Rp. 10.000</item>
+        <item>Rp. 10.000</item>
+        <item>Rp. 10.000</item>
+        <item>Rp. 12.000</item>
+    </string-array>
+
+</resources>
